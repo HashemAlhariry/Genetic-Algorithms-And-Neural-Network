@@ -8,7 +8,7 @@ maximum number of items that could fit in the knapsack and at the same time prov
 Curve fitting is the process of constructing a curve, or mathematical function (e.g. polynomial equation) that has the best fit to a series of data points, possibly subject to constraints. In smooth curve fitting, function is constructed to approximately fit the data.
 In this assignment, we are given set of points and would like to fit a curve using a polynomial equation to them. Using genetic algorithms, find the best coefficients that would make the distance between the polynomial and the points minimum.
 
-## Fuzy set
+## Fuzzy set
 In this program a fuzzy toolbox created,The toolbox support the following functionally:	
 1)	fuzzy set (membership function). (Fuzzy sets could be trapezoidal or triangular)
 2)	linguistic variable,a membership functions to each linguistic term.
